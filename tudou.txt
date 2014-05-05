@@ -1,0 +1,20 @@
+UID	31445a22-58.26.185.51-1387947897
+UIDR	1387947897
+__tft	1387947928811
+__ysuid	1387947928298AtN
+focusRandomFlag	1
+juid	018ck29bgmrhv
+pageStep	2
+pageUUID	44d21e6e-f028-4f8d-a25e-385043a599e2~_~608
+referhost
+seid	018ck29bgmrhv
+seidtimeout	1387949729141
+tudou_wurfl	PC||400|400
+ycid	0
+yjuid	1387947928811iU1
+ypvid	1387947929094kHPoHS
+yseid	1387947929094uh5AUI
+yseidcount	1
+yseidtimeout	1387955129094
+ysestep	1
+ystep	1
